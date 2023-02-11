@@ -19,6 +19,6 @@ this line convert string to python funcion
 	python main.py
 
 
-#Screenshots
+## Screenshots
 ![1](https://github.com/jero98772/integral-looks-like-pipe/blob/main/misc/1.png)
 
