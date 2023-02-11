@@ -1,5 +1,8 @@
 # integral-looks-like-pipe
-![logo](https://github.com/jero98772/integral-looks-like-pipe/blob/main/misc/logo.jpeg)
+<img src="https://github.com/jero98772/integral-looks-like-pipe/blob/main/misc/logo.jpeg"  width="600" height="300">
+		simple and powerful
+
+
 
 integral calculator in python with metaprograming technics
 
